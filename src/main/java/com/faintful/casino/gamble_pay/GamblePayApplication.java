@@ -1,0 +1,13 @@
+package com.faintful.casino.gamble_pay;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GamblePayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GamblePayApplication.class, args);
+	}
+
+}
